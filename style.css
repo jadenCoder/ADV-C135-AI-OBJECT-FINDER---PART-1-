@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    text-align: center;
+    
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+#start123,#number_of_objects,#status{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.footer{
+    color: rgba(255, 0, 0, 0.993);
+     position:fixed;
+     bottom:0;
+     background-color: rgb(0, 0, 0);
+     width: 100%;
+     text-align: center;
+     font-size: 18px;
+     line-height: 2;
+
+
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 180px;
+    box-shadow: 5px 5px 5px white;
+    padding-bottom: 100px;
+    
+}
